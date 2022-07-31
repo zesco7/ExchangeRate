@@ -21,7 +21,7 @@ class WebViewController: UIViewController {
     @IBOutlet weak var reloadButtonClicked: UIBarButtonItem!
     @IBOutlet weak var goforwardButtonClicked: UIBarButtonItem!
     
-    let mainURL = "https://www.apple.com"
+    let mainURL = "https://www.naver.com"
     
     override func viewDidLoad() {
         super.viewDidLoad()
