@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5B8419E5-F1EB-4ED2-BF00-7DC62D6EA46C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1615B3AA-6F3D-48C2-909C-6C9AB5228215"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NotiViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "NotiViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1615B3AA-6F3D-48C2-909C-6C9AB5228215 - 1d2dd3be6cb221f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20_Practice2.NotiViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; _20_Practice2.NotiViewController"
+                  moduleName = "020_Practice2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro15/Desktop/SeSAC(%E1%84%89%E1%85%A2%E1%84%8A%E1%85%A1%E1%86%A8)%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6/020_Practice2/NotiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "1615B3AA-6F3D-48C2-909C-6C9AB5228215 - b3dd947e9d3b0b3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20_Practice2.NotiViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; _20_Practice2.NotiViewController"
+                  moduleName = "020_Practice2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro15/Desktop/SeSAC(%E1%84%89%E1%85%A2%E1%84%8A%E1%85%A1%E1%86%A8)%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6/020_Practice2/NotiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "1615B3AA-6F3D-48C2-909C-6C9AB5228215 - 64804c8199ab9494"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20_Practice2.NotiViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_20_Practice2.NotiViewController&gt;"
+                  moduleName = "020_Practice2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro15/Desktop/SeSAC(%E1%84%89%E1%85%A2%E1%84%8A%E1%85%A1%E1%86%A8)%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6/020_Practice2/NotiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "1615B3AA-6F3D-48C2-909C-6C9AB5228215 - ed8de165ec92d075"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20_Practice2.NotiViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_20_Practice2.NotiViewController&gt;"
+                  moduleName = "020_Practice2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro15/Desktop/SeSAC(%E1%84%89%E1%85%A2%E1%84%8A%E1%85%A1%E1%86%A8)%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6/020_Practice2/NotiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "1615B3AA-6F3D-48C2-909C-6C9AB5228215 - 45aedbcdd44cedba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_20_Practice2.NotiViewController.__deallocating_deinit"
+                  moduleName = "020_Practice2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macpro15/Desktop/SeSAC(%E1%84%89%E1%85%A2%E1%84%8A%E1%85%A1%E1%86%A8)%20%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6/020_Practice2/NotiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
